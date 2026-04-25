@@ -24,23 +24,6 @@ Automatically purges the following "noise" categories:
 - **Audio Guide**: Integrated Text-to-Speech narration to walk you through the system.
 - **Motion Orchestration**: Staggered layout animations for smooth data visualization.
 
----
-
-## 🚀 Deployment
-
-### Web-Based (Recommended)
-This application is optimized for **Netlify** or **Vercel**.
-1. **GitHub**: Push this repository to GitHub.
-2. **Connect**: Link your repo to Netlify.
-3. **Environment Variables**: Add `GEMINI_API_KEY` in your provider's dashboard.
-4. **Build Settings**:
-   - Build Command: `npm run build`
-   - Publish Directory: `dist`
-
-### Local Execution (Windows)
-1. Ensure you have [Node.js](https://nodejs.org/) installed.
-2. Double-click `run.bat` in the root directory.
-3. Open `http://localhost:3000` in your browser.
 
 ---
 
