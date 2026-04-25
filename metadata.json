@@ -1,0 +1,6 @@
+{
+  "name": "SpectreAudit",
+  "description": "Neural visual dataset auditor. A James Bond-style dashboard for high-stakes intelligence vetting and design quality scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image_analysis"]
+}
